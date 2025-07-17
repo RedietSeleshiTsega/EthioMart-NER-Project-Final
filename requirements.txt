@@ -1,0 +1,8 @@
+telethon
+pandas
+nltk
+regex
+hazm
+transformers
+datasets
+seqeval
